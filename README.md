@@ -1,2 +1,0 @@
-# certificado
-Impresión de Certificados
